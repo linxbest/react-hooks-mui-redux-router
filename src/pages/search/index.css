@@ -1,0 +1,20 @@
+
+.page-search-header{
+    font-size: 24px;
+    padding: 10px;
+    border-bottom: 1px solid #ebe9e2;
+    margin-bottom: 18px;
+
+}
+.page-search-title{
+    font-size: 48px;
+    text-align: center;
+    font-weight: normal;
+}
+.word-hl{
+    font-weight: bold;
+}
+#input_search{
+    height: 100%;
+    padding: 7px 14px;
+}

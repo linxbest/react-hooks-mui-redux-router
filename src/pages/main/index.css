@@ -1,0 +1,17 @@
+
+.page-main{
+    
+}
+.page-main-header{
+    font-size: 24px;
+    padding: 10px;
+    border-bottom: 1px solid #ebe9e2;
+}
+.page-main-title{
+    font-size: 48px;
+    text-align: center;
+    font-weight: normal;
+}
+.word-hl{
+    font-weight: bold;
+}
